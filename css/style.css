@@ -12,18 +12,28 @@ bilder kleiner in mobile?
 
 schriftgröße mitskalieren mit size? navigation etc poppt aus border radius bei kleinen screen
 
-media queries portrait orientation
+media queries portrait orientation landscape!!!
 
 font ändern - katja
 
 responsive for 5k???? FULL HD PLUS
+
+Styling, Coloring, Haircuts h4 oder so, kleiner als Our services!!
+
+personal data stylen
+
+send --> submit und blue färben
+
+wie kann man am phone testen, wenn man html öffnet wird kein css eingebunden?
+
+hover über die nav -> braucht border size, runde ecken
 
 */
 
 body {
     background-attachment: fixed;
     background-size: 100%;
-    background-image: url("./img/bg-hair.jpg");
+    background-image: url(img/bg-hair.jpg);
     margin: auto;
     width: 100%;
     font-family: "Times New Roman", sans-serif;
@@ -82,8 +92,8 @@ hr {
     border: 2px solid rgba(23, 46, 74, 0.26);
 }
 
-a:link,
-a:visited,
+
+a:visited
 {
     color: #fff;
     text-decoration: none;
